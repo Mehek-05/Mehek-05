@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subiya Mehek S</h1>
 <h3 align="center">A passionate Software Testing, Agile, Java Developer from India</h3>
 
-<img align = "right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/086ce364-603a-433f-9133-6d61690b61e8" />
+<img align = "right" width="400" height="428"  src="https://github.com/user-attachments/assets/086ce364-603a-433f-9133-6d61690b61e8" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehek-05&label=Profile%20views&color=0e75b6&style=flat" alt="mehek-05" /> </p>
